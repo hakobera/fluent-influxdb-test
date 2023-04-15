@@ -25,7 +25,7 @@ GEM
       sigdump (~> 0.2.2)
     sigdump (0.2.2)
     thor (0.19.1)
-    yajl-ruby (1.2.0)
+    yajl-ruby (1.4.3)
 
 PLATFORMS
   ruby
